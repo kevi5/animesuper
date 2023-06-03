@@ -32,8 +32,7 @@ npm start
 ```
 ## Features -
 
-#### 1️⃣ Utilized the robust capabilities of Figma to meticulously design and implement the entire website, ensuring a visually appealing and user-friendly interface.
- [Link](https://www.figma.com/file/hceRTLfnSDUt1bUrgR47Q0/Anime-Project?node-id=3-75) 
+#### 1️⃣ Utilized the robust capabilities of Figma to meticulously design and implement the entire website, ensuring a visually appealing and user-friendly interface. [Figma Link](https://www.figma.com/file/hceRTLfnSDUt1bUrgR47Q0/Anime-Project?node-id=3-75) 
 <p align="center">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229492141-ea8888d2-bb79-43fb-a8cf-865ac84ea0c6.png">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229492362-a0a9a6cf-80f0-4bb5-9259-6afc7f4d0a19.png">
