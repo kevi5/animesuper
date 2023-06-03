@@ -39,20 +39,20 @@ npm start
 </p>
 
 
-#### 2️⃣ Harness the robust functionality of Django Authentication to seamlessly establish user accounts, ensuring enhanced security and efficient user management within your web application.
+#### 2️⃣ Harness the robust functionality of Django Authentication to seamlessly establish user accounts, ensuring enhanced security and efficient user management within web application.
 <p align="center">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229362814-4239d3d6-5242-4c16-9b0e-9d23137a1762.png">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229362839-85de1d17-8567-47b9-8481-ac60995dbd26.png">
 </p>
 
-#### 3️⃣ Effortlessly enrich your user experience by seamlessly incorporating the functionality to add anime and manga to your personalized favorite list within the application's framework.
+#### 3️⃣ Effortlessly enrich user experience by seamlessly incorporating the functionality to add anime and manga to your personalized favorite list within the application's framework.
 <p align="center">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229363102-6b8d7071-da49-46f7-8c22-1c101363d6c1.png">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229363133-2898be81-40be-4a50-918f-828f3c366981.png">
 </p>
 
 
-#### 4️⃣ Enhance your browsing experience by seamlessly integrating the capability to include anime and manga into your dynamic watchlist within the application's framework.
+#### 4️⃣ Enhance browsing experience by seamlessly integrating the capability to include anime and manga into  dynamic watchlist within the application's framework.
 <p align="center">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229363247-1243df6f-ad1a-406a-b7ed-4662412dc145.png">
   <img width="45%" src="https://user-images.githubusercontent.com/68547999/229363286-bbdb561e-b4b0-4691-bb8e-f19d8e76217b.png">
